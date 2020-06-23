@@ -12,4 +12,5 @@ Mais um teste
 Outro teste
 Outro teste
 Outro teste
+Algum outro teste
 Testando o primeiro commit!
