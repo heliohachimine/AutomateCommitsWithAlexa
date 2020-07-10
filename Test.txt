@@ -7,4 +7,6 @@ Outro teste
 Algum teste
 Outro teste
 Outro teste
+
+Mais um teste
 Testando o primeiro commit!
