@@ -4,4 +4,5 @@ Outro teste
 Outro teste
 
 Outro teste
+Algum teste
 Testando o primeiro commit!
